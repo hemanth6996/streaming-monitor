@@ -6,7 +6,10 @@
 node_modules
 jsconfig.json
 coverage
-
+project-scratch-def.json
+*.json
+*.js
+*.soql
 # Sample objects
 **/objects/
 
